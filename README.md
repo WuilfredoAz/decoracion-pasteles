@@ -249,6 +249,8 @@ Una vez teniendo la materia grasa seleccionada, la cual debe estar a punta pomad
 
 >ProTips: Al usar manteca ir echando la azúcar de a poco. Viendo y probando la consistencia para que no quede tan arenosa. Por ejemplo si bien la proporción es 1:2, ir viendo cómo va quedando cuando se va a 1/3 de la azúcar total. Recordar que se puede usar menos azúcar.
 
+> Tip: Se puede agregar un poco de leche líquida a la preparación para que la misma se vuelva más ligera.
+
 
 A esta preparación se le conoce como "buttercream base" o "buttercream americano". El cual se puede saborizar con esencias, galletas, mermeladas, frutas, colorantes, etc. para cambiar su sabor.
 
@@ -522,7 +524,106 @@ Es una mezcla que se utiliza para realizar decoraciones de tipo esculturales (mu
 - Al momento de usarse se debe tener en cuenta que debe ser utilizado con la punta de los dedos para no transmitirle calor corporal a la mezcla y no sude la glucosa.
 
 
+## Torta Red Velvet (Semana 7)
+Este es un tipo de Bizcocho muy clásico que se acompaña comúnmente con una crema de queso crema. Se realiza teniendo los siguientes ingredientes para un molde de 20-23cm:
 
+- 2 ½ tazas de harina de trigo (todo uso).
+- 1 ½ tazas de azúcar blanca.
+- 1 cucharadita de bicarbonato de sodio.
+- 1 cucharadita de sal.
+- 1 cucharadita de cacao en polvo (sin azúcar).
+- 1 ½ tazas de aceite vegetal.
+- 1 taza de buttermilk (suero de leche).
+- 2 huevos grandes.
+- 2 cucharadas de colorante rojo líquido.
+- 1 cucharadita de vinagre blanco.
+- 2 cucharaditas de extracto de vainilla.
+
+>Nota: El profesor comenta que de querer sustituir el aceite por mantequilla o margarina todos los ingredientes deben de aumentar en un 20%.
+
+### Preparación
+Aunque su preparación original de la receta es la siguiente: El profesor la realizó con una leve variante:
+
+#### Preparación original de la receta
+- Precalienta el horno a **175 °C (350 °F)**. Engrasa y enharina dos moldes redondos para tartas (de unos 20-23 cm de diámetro).
+- En un bol grande, tamiza la harina, el cacao, el bicarbonato y la sal.
+- En otro recipiente, mezcla el azúcar con el aceite vegetal hasta obtener una textura suave.
+- Añade los huevos, uno a uno, batiendo bien después de cada adición.
+- Incorpora el buttermilk, la vainilla y el colorante rojo. Mezcla bien.
+- Agrega los ingredientes secos a la mezcla húmeda, poco a poco, hasta que la masa quede homogénea.
+- Finalmente, añade el vinagre blanco y mezcla suavemente.
+- Divide la masa entre los moldes y hornea durante 30-35 minutos, o hasta que al insertar un palillo, este salga limpio.
+- Deja enfriar los bizcochos completamente antes de desmoldar y decorar.
+
+#### Prepración por el profesor
+- Se pesan los ingredientes secos y se reservan para su posterior mezclado.
+- Se integran en un bowl la Harina, el bicarbonato de sodio, el polvo de hornear y la cda de Cacao. Todo cernido.
+- En otro Bowl se procede a montar los huevos completos hasta alcanzar el punto de letra.
+- Una vez alcanzado el punto de letra se procede a incorporar el azúcar en forma lluvia.
+- Agregar poco a poco aceite. Puede parecer que se corta la mezcla, seguir batiendo. tener cuidado al momento de incoporarlo porque si toca las aspas salpicará.
+- Agregar la vainilla.
+- Se procede a incorporar los secos con los líquidos (buttermilk o leche cortada) alternando. Comenzando con la mezcla de los secos, luego buttermilk y hasta posteriormente acabar con secos.
+- Se agrega el colorante rojo a la mezcla.
+- Llevar al horno a 180°C.
+
+>Tips del profesor: Para que no le pegue el calor directo se puede colocar el molde donde esta la preparación dentro de una bandeja para que no le pegue el calor directamente.
+
+### Consideraciones
+- Si no se consigue el buttermilk, se puede realizar agregandole a una taza de leche 1 cucharade de vinagre o el zumon de limón y se deja reposar 10 minutos hasta que la leche parezca cortada.
+- Este bizcocho lleva un poco de colorante, y aunque la receta indica colorante líquido, no es recomendable usar ese puesto que durante la cocción pareciera que se evaporó. Mejor usar en gel.
+- La miga de este bizcocho es un frágil. Si se va a dar un acabado prolijo, se recomienda llevar a refrigeración el bizcocho antes de aplicar la cobertura.
+- El cacao que se utiliza para esta preparación no es para darle sabor, es para oscurecer un poco el tono rojizo del color rojo. Por eso se usa en pequeña cantidad.
+
+
+## Crema de Queso Crema (Semana 7)
+Es una crema de sabor similar a la salsa de los Cinamon Rolls pero con un poco más de consistencia. Sirve tanto para decorar como para manguearla. Es utilizada comúnmente en la torta Red Velvet.
+
+Los ingredientes utilizados en clase fueron:
+
+- 225gr de queso crema
+- ½ taza (115gr) de mantequilla sin sal
+- 4 tazas de azúcar glass (impalpable)
+- 2 cucharaditas de extracto de vainilla
+- Una pizca de sal
+
+### Preparación
+- En un bol, bate el queso crema y la mantequilla hasta que la mezcla esté cremosa.
+- Añade la vainilla y la pizca de sal.
+- Poco a poco, incorpora el azúcar glas, batiendo hasta obtener una textura esponjosa y suave.
+
+### Consideraciones
+
+Batir recomendablemente con la lira
+
+Se crema la mantequilla con el queso
+despues de unificado se incorpora poco a poco la azucar glass
+Una vez incorporado el azucar se llava a refirgeración para que solidifique y poderla trabajar
+
+- preferir usar queso crema en formato de barra que son mas firmes y tienen menor cantidad de agua, por encima de los comunes que vienen en recipientes estilo Gaby que por lo general incluyen mucha agua y hacen que la preparacion quede muy liquida.
+
+## Armado de Torta de más de 1 piso
+Cuando una torta involucra varios pisos, es necesario tener en cuenta ciertas cosas como por ejemplo:
+
+- Se debe comenzar con una torta que sea de un diametro mayor a la de los pisos adyacentes.
+- Se debe de contar con bases para las tortas de los pisos superiores que sean exactamente del mismo diámetro de las tortas o un poco más pequeños en dado caso. Estas bases se usan para que al momento de cortar, el cuchillo no siga su trayecto hasta abajo y que al momento de retirar la porción sea mucho más fácil.
+- Antes de colocar un piso (torta con su platón) se debe de preparar la torta de abajo, esto se hace haciendo una estructura con _pitillos de reposteria_ que son mas altos, gruesos y resistentes que pitillos normales, permitiendo soportar mayor peso. Los pitillos se deben de colocar estratégicamente para que sirvan de apoyo a la base que va con el piso. Ejemplo:
+
+<div align="center">
+    <img src="img/pitillos.jpg" width="350px" alt="Base hecha con pitillos."/>
+    <small><p>Base hecha con pitillos.</p></small>
+</div>
+
+- El disco o platón debe de estar "pegado" a la torta con cualquier crema o glucosa.
+- Aunque en la imágen se ve que los pitillos "bordean" la base, en realidad se puede hacer de cualquier forma geométrica que permita una buena resistencia al peso. Como por ejemplo en X, Cuadrado, Triángulo, etc.
+- Este proceso debe de realizarce por cada piso de torta, siendo entonces la estructura a formar y si fuera posible podría usarse una columna principal que conecte todas los pisos y sus respectavias "bases" de pitillos tal como se ve en esta imagen:
+
+<div align="center">
+    <img src="img/estructura.jpg" width="350px" alt="Estructura completa del montaje."/>
+    <small><p>Estructura completa del montaje.</p></small>
+</div>
+
+- Este proceso se recomienda realizar en el lugar del evento. Dado que es muy riesgoso llevar la torta ya armada al sitio.
+- Si bien las tortas de los pisos inferiores llevan una torta en la parte de arriba, se pueden alisar como de costumbre todas por separado y después se unen ya decoradas. O si se tiene la destresa se unen todas y se alisan ya montadas.
 
 <!-- ##########################################################
 
