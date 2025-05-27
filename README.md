@@ -628,6 +628,120 @@ Cuando una torta involucra varios pisos, es necesario tener en cuenta ciertas co
 - Este proceso se recomienda realizarlo en el lugar del evento. Dado que es muy riesgoso llevar la torta ya armada al sitio.
 - Si bien las tortas de los pisos inferiores llevan una torta en la parte de arriba, se pueden alisar como de costumbre todas por separado y después se unen ya decoradas. O si se tiene la destreza, se unen todas y se alisan ya montadas.
 
+## Falso Coral (Semana 8)
+
+<div align="center">
+    <img src="img/falso-coral.jpg" width="350px" alt="Falso Coral."/>
+    <small><p>Falso Coral.</p></small>
+</div>
+
+Es una preparación de agua, aceite y harina en proporción 1:1:20%. Es decir, 1 unidad de agua, 1 unidad de aceite y el 20% de la suma de las unidades anteriores es de harina. Ejemplo: 50gr de agua, 50gr de aceite, 20gr de harina (Correspondiente al 20% de 100). Su sabor es neutro, dado que para su preparación no es necesario azúcar, sal, esencias o colorantes. Sin embargo de requerirlo se le puede aportar. Esta es una preparación que se usa más que todo para decorar un plato o torta.
+>Nota: Lo que agarra el colorante en este caso es la harina, y como se usa poca cantidad de harina no hace falta mucho colorante para que tome un color muy intenso.
+
+### Preparación
+Se prepara de la siguiente manera
+
+#### Preparando ingredientes
+- Se procede a pesar la unidad de agua.
+- Se procede a pesar la unidad de aceite.
+- De la suma de unidades del agua y el aceite se deduce la harina.
+- De requerir, usar sal, azúcar o colorantes.
+- Se vierte todos los ingredientes en un tetero o salsero y se bate bien hasta obtener una mezcla homogénea.
+
+#### Cocción
+- Se calienta muy bien un sartén y luego de estar caliente se baja la temperatura a media-alta. Sabremos que está muy caliente cuando se posa la mano encima del sartén **sin tocarlo** y no toleramos 5 segundos.
+- Una vez alcanzada la temperatura ideal, se vierte la mezcla en el sartén, haciendo uso del salsero y mediante el mismo se da la forma deseada.
+- A medida que se va cocinando debemos ir retirando la grasa residual de la preparación inclinando el sartén.
+- Se sabe cuando está listo cuando deja de burbujear y se separa del sartén.
+
+#### Acabado
+- Una vez terminada la cocción se recomienda colocar en un plato junto a una servilleta para que absorba la grasa de la preparación.
+- Si se van a hacer más, en este punto, luego de haber retirado la preparación del sartén, el mismo debe de limpiarse de cualquier residuo de aceite, o mezcla para que no altere las siguientes cocciones.
+
+### Consideraciones
+- El aceite sobrante de la cocción puede ser reutilizado.
+- Como lo que se _cocina_ realmente es la harina, y la misma es muy poca cantidad, esta se puede tornar dulce o salada con muy poca cantidad de azúcar o sal respectivamente.
+- Para hacer esta preparación se recomienda un sartén antiadherente.
+- Si se hacen trazos muy pequeños o delgados, es posible que queden demasiados frágiles y se rompan al manipularlos o intentar sacarlos del sartén.
+- La cocción de la preparación es rápida.
+- Si bien no se pueden mezclar varios colores para crear un marmoleado, se pueden hacer dos preparaciones por separadas y se vierten al mismo momento para crear ese efecto. Si se tiene buena temperatura al momento de freír puede emular dicho efecto.
+
+## Falso Caviar (Semana 8)
+
+<div align="center">
+    <img src="img/falso-caviar.jpg" width="350px" alt="Falso Caviar."/>
+    <small><p>Falso Caviar.</p></small>
+</div>
+
+Es una preparación que tiene como ingredientes un gelificante de tipo Agar-Agar, aceite frio, y algún líquido o zumo de fruta para darle sabor. Se usa para decorar platos y postres.
+
+Se debe tener en cuenta que se necesita muy poco Agar-Agar para esta preparación. Aproximadamente por cada 100Ml de zumo o líquido de la mezcla se usan 1gr de Agar-Agar.
+
+### Preparación
+- Antes que todo se debe de tener un vaso o recipiente lleno de aceite muy frío.
+- Se comienza llevando a fuego el líquido o zumo de la fruta hasta que hierva.
+- Una vez que rompa a hervor se incorpora el Agar-Agar y se revuelve constantemente para evitar grumos.
+- Con la mezcla homogénea se procede a pasarla a un tetero o recipiente que permita dispensar pequeñas gotas.
+- Teniendo la mezcla en el recipiente, se procede a dispensar las gotas de la mezcla en el aceite frio. Este choque térmico es el que permitirá solidificar el Agar-Agar, encapsulando el líquido o zumo de fruta con formas de caviar.
+- Se deja reposando las gotas en el aceite frio durante un rato.
+- Una vez tenida la cantidad de gotas deseadas de la mezcla, se debe proceder a _lavar_ las gotas con agua para separar el aceite de las mismas y se puedan comer.
+
+### Consideraciones
+- Se puede usar cualquier jugo o líquido de cualquier sabor. Excepto la piña por sus encimas antigelificantes.
+- Antes de verte el contenido en el salsero es buena idea colarlo primero para evitar cualquier grumo.
+- En esta preparación el ingrediente irremplazable es el Agar-Agar.
+- El Agar-Agar es termorreversible, lo que significa que si se vuelve a calentar a 80°-90°C se volverá nuevamente líquido.
+- Por la alta temperatura a la que vuelve a estar en estado líquido se puede determinar que resiste muy bien las altas temperaturas.
+- Se debe tener en cuenta que el Agar-Agar no reacciona tan bien con algunas mezclas ácidas, entonces de no gelificarse, se procede a calentar para disolver nuevamente y bajar la acidez de la preparación con un poco de agua, azúcar o un poco de ambas.
+
+## Efectos con Chocolate (Semana 8)
+Se pueden hacer varios efectos o formas con chocolate, sin importar si es tipo oscuro, de leche o blanco. Lo importante es que sea chocolate cobertura. En clase se hicieron los siguientes efectos:
+
+### Efecto Marmoleado
+
+<div align="center">
+    <img src="img/chocolate-marmoleado.png" width="350px" alt="Chocolate con efecto marmoleado."/>
+    <small><p>Chocolate con efecto marmoleado.</p></small>
+</div>
+
+Se hace con chocolate cobertura blanco junto a chocolate en polvo. Se realiza de la siguiente manera:
+
+- En una superficie de acetado o antiadherente limpia; se rocía un poco de chocolate en polvo (que es lo que simulará las betas del mármol) y se reserva.
+- Se derrite el chocolate blanco.
+- Una vez derretido, se vierte en la superficie donde se ha esparcido el chocolate en polvo y se procede a extender con la ayuda de una espátula. No es necesario llevar a la nevera.
+- Cuando esta casi frio y aun flexible es el mejor momento para picarlo con la ayuda de algún molde de galletas o un cortador. Dado que si se endurece se puede quebrar demasiado, lo cual puede ser perjudicial si no buscamos ese efecto.
+
+
+### Líneas de chocolate
+
+<div align="center">
+    <img src="img/chocolate-rasgado.png" width="350px" alt="Chocolate con efecto rasgado."/>
+    <small><p>Chocolate con efecto rasgado.</p></small>
+</div>
+
+Es una técnica que se hizo con el chocolate blanco y de leche y con la ayuda de un scraper. Se realizó de la siguiente manera:
+
+- En una superficie de acetado o antiadherente limpia; se vierte el chocolate blanco previamente derretido y se esparce con la ayuda de una espátula.
+- Una vez creada una película de chocolate en toda la superficie, se procede a _rasgar_ la superficie con la ayuda de un scraper con bordes de sierra para crear canales donde se verá el otro tipo de chocolate.
+- Se vierte el chocolate de leche y se esparce cuidadosamente con la espátula por toda la superficie.
+- Cuando esta casi frio y aun flexible es el mejor momento para picarlo con la ayuda de algún molde de galletas o un cortador. Dado que si se endurece se puede quebrar demasiado, lo cual puede ser perjudicial si no buscamos ese efecto.
+
+
+### Consideraciones
+- En ambos efectos con el chocolate, siempre la parte _brillante_ es la que va al frente.
+- Siempre se debe de limpiar el acetato o superficie para que no quede residuos que impida que se despegue o afecte el efecto deseado.
+- Un buen indicador para saber cuándo es momento de despegar el chocolate o cuando esta cerca de solidificarse es notar cuando pasa de estar brillante a opaco.
+
+
+## Decoración con Flores (Semana 8)
+Al momento de decorar una torta con cualquier tipo de flor es necesario tener en cuenta lo siguiente:
+
+- El tallo de la flor debe de prepararse de forma que quede corto, libre de suciedad y otras ramas. Además la punta del tallo debe de cortarse en diagonal para facilitar el incrustado en la superficie.
+- Se recomienda que el tallo este envuelto en floral-tape o en cinta adhesiva para evitar el contacto directo con la torta.
+- Existe diversas flores comestibles como las que se usan para hacer té.
+
+
+
 <!-- ##########################################################
 
 Notas desordenadas
@@ -635,6 +749,8 @@ Notas desordenadas
 La proporción de pastel por personas son de 80-100grs de harina por persona
 Los pasapalos son 4-6 por persona en el evento
 Protips: Una pizca de Pimienta negra ayuda a resaltar el sabor de las tortas de chocolate también el café
+la diferencia al tacto entre la maicena y la azucar glass es que la azucar glass es sedosa mientras la maicena se siente mas seca. como que cruje al tacto.
+5-10gr de sal por litro de agua en las pastas
 
 700gr
 40% aceite (280)
