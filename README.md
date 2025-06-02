@@ -741,6 +741,122 @@ Al momento de decorar una torta con cualquier tipo de flor es necesario tener en
 - Existe diversas flores comestibles como las que se usan para hacer té.
 
 
+## Crema Chantilly (Semana 9)
+Es un tipo de crema que se hace a base de crema de leche y azúcar glass. Sirve para decorar y rellenar, sin embargo si es para relleno; es mejor usarlo junto a algún elemento que le ayude a mantener la estructura, como mezclarlo con frutas, galletas, o con muros de contención ya que su estructura final es similar a la de un merengue y ante mucho peso/presión se deshace.
+
+Aunque la preparación original amerita comprar los ingredientes separados, últimamente sale más económica comprar las preparaciones que vienen ya mezcladas de 1lt. Donde únicamente se debe batir.
+
+### Preparación
+En clase utilizamos la mezcla que ya viene lista de batir, la cual ya tiene incorporado la azúcar glass y la crema de leche y solo es cuestión de batir hasta llegar a punto de Chantilly y ya estaría listo.
+>Nota: Una vez alcanzado el punto de Chantilly, dejar de batir, dado que si seguimos batiendo se puede cortar la mezcla dañándola y dando como resultado una separación de grasa y liquido.
+
+### Consideraciones
+
+#### Frio previo
+Esta es un tipo de crema donde se recomienda que **TODO** este frio. El bowl donde se batirá, las aspas o varillas de la batidora, la crema en sí (OJO: FRIA no congelada), dado que el Chantilly interactúa muy bien con el frio.
+
+#### Resistencia
+Si se quiere dar un poco más de resistencia a las preparaciones de Chantilly, se puede lograr agregándole otros ingredientes a la preparación como podrían ser: leche en polvo, chocolate cobertura o gelatina sin sabor.
+
+En el caso de agregar chocolate, hay que derretirlo primero hasta que no tenga grumos, luego se bate la crema y a mitad del proceso de batido, es decir, sin llegar a alcanzar el punto de Chantilly, es en ese momento cuando se incorpora el chocolate derretido que debe estar a temperatura ambiente. La proporción para que siga considerándose Chantilly puede ser para 1lt mezcla, 100gr-200gr de chocolate blanco.
+
+Hay que tener en cuenta que mientras más chocolate se le agrega más resistente será al calor la crema, y más cerca estará de ser un Ganaché de chocolate.
+
+En caso de agregar leche en polvo, se agregará tres cucharas de leche en polvo cernida a la preparación cuando se encuentre a medio punto, es decir, sin llegar a alcanzar el punto de Chantilly.
+
+Es posible agregar ambos ingredientes juntos, es decir, las tres cucharadas de leche, junto con los 100gr-200gr de chocolate blanco. Para darle al Chantilly mayor firmeza.
+
+#### Dulzor
+En la clase se preparó una mezcla de Chantilly de la marca [KEN Presto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUbjZatByUw7MGI4EBzt7mij112vVy7VM3dQ&s) la cual resultó ser a gusto del autor bastante baja de azúcar. Ideal para personas que no son muy fan de cremas muy dulces o no puedan comer estas últimas.
+
+#### Porosidad
+Es muy probable que luego de terminar de montar la crema, la misma quede con burbujas de aire dentro de la misma, evitando que la crema tenga una textura sedosa y lisa. Para corregir esto se debe de batir en forma aplastante con un miserable. No se recomienda volver a batir con la maquina y la lira para evitar sobrebatir y que se corte la crema.
+
+#### Saborizar
+Se puede saborizar con cualquier esencia.
+
+#### Color
+Se puede pinta la crema recomendablemente con colorantes en gel.
+
+
+## Decoración Fault Line Floral (Semana 9)
+
+<div align="center">
+    <img src="img/tipos-fault-line.jpg" width="500px" alt="Tipos de Fault Line."/>
+    <small><p>Tipos de Fault Line.</p></small>
+</div>
+
+En decoración de pasteles la técnica de Fault Line consiste en mostrar una especie de "grieta" o simular el aspecto de una superficie agrietada.
+
+Concretamente, en la clase se hizo estilo Floral, es decir, donde estaba la grieta se agregaron Flores. Sin embargo esta tendencia decorativa se puede realizar de distintos motivos.
+
+### Montaje
+Consta primeramente de una torta de tres pisos, donde dos de ellos (los extremos), corresponden a un mismo diámetro, y otro (la parte central) es de un diámetro menor. Esto se ilustra mejor en la siguiente imagen:
+
+<div align="center">
+    <img src="img/estructura-inicial.png" width="350px" alt="Posiciones de las tortas."/>
+    <small><p>Posiciones de las tortas.</p></small>
+</div>
+
+Como se puede notar en la imagen, son tres tortas apiladas, donde el diámetro de la torta del centro es menor (20cm) en comparación a la de las tortas de los extremos (24cm).
+
+También se debe de tener en cuenta el proceso de estructura descrito anteriormente en clases pasadas, lo cual nos indica que quedaría fijada de la siguiente forma:
+
+<div align="center">
+    <img src="img/estructura-fault-line.jpg" width="350px" alt="Estructura inicial."/>
+    <small><p>Estructura inicial.</p></small>
+</div>
+
+Una vez armada la estructura se procedió a realizar la capa  atrapa-migas (aunque también puede realizarse desarmada). Recordando que la capa atrapa-migas es una capa fina de crema que después de realizarse se recomienda refrigerar.
+
+<div align="center">
+    <img src="img/atrapa-migas.png" width="350px" alt="Capa Atrapa-migas."/>
+    <small><p>Capa Atrapa-migas.</p></small>
+</div>
+
+Una vez cubierta la torta con su capa de atrapa-migas es momento de realizar las flores en la parte central. Cubriendo toda esta superficie con ellas.
+
+<div align="center">
+    <img src="img/centro.png" width="350px" alt="Nivel central de la decoración."/>
+    <small><p>Nivel central de la decoración.</p></small>
+</div>
+
+Ya estando cubierta la parte central, ahora si se agrega una capa gruesa de crema en los extremos (arriba y abajo) y se procede a alisar.
+
+Durante el alisado, parte de la crema se irá hacia el centro, esto creará la ilusión de superficie irregular y profundidad.
+
+<div align="center">
+    <img src="img/profundidad.png" width="350px" alt="Extremos."/>
+    <small><p>Extremos.</p></small>
+</div>
+
+Ya estando cubierta se procede a alisar hasta estar satisfecho con el alisado.
+
+Se puede agregar detalles sutiles como un borde dorado en las terminaciones irregulares del medio con ayuda de un pincel y matizadores. Recordando que se puede diluir el matizador en Vodka sin sabor.
+
+<div align="center">
+    <img src="img/pincel.png" width="350px" alt="Detalles dorados."/>
+    <small><p>Detalles dorados.</p></small>
+</div>
+
+Opcionalmente se puede concluir agregándole salpicaduras de matizador pero hay que tener cuidado que las mismas no caigan en la parte central y manche las flores, para mantener su estética.
+
+<div align="center">
+    <img src="img/final.png" width="350px" alt="Resultado final."/>
+    <small><p>Resultado final.</p></small>
+</div>
+
+### Consideraciones
+Durante la clase no se realizó la decoración tal cual como se muestra en el texto anterior. Esta es una síntesis de un [video](https://www.youtube.com/watch?v=jGSrB5nPHNI) y la clase al cual el autor le pareció más prolija su mezcla.
+
+Sin embargo la realización en clase fue casi igual con la excepción de que en lugar de realizar las flores luego de haber hecho la capa atrapa-migas, se hicieron las flores luego de haber alisado completamente los extremos. Quedando así casi lisa y libre de irregularidades en la parte central tal como se puede apreciar:
+
+<div align="center">
+    <img src="img/fault-line-flora-og.png" width="350px" alt="Decoración de la clase."/>
+    <small><p>Decoración de la clase.</p></small>
+</div>
+
+
 
 <!-- ##########################################################
 
