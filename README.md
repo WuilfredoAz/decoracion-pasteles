@@ -94,8 +94,6 @@ Se recomienda batir siempre en la misma dirección, bien sea moviendo el bowl de
 #### Decorar o rellenar
 Los merengues se deberían de usar siempre para decorar. Para rellenar no es recomendable puesto que en su mayoría su composición es aire y por ende se caerá/absorberá por el peso de la torta. De usarse como relleno, se debe hacer un hueco dentro de la torta y verter el relleno ahí y luego tapar con la parte de arriba, esto con la idea de que no se apoye todo el peso de la torta en él o mezclarlo con frutas para que los pedazos de las mismas sirvan de apoyo.
 
-
-
 ## Tabla de costos (Semana 2)
 La tabla de costos es una técnica en la cual nos permite plasmar todos los ingredientes a utilizar para así planear el precio final que tendrá nuestro producto.
 
@@ -228,7 +226,6 @@ El Buttercream o crema de mantequilla es un tipo de crema que se realiza con mat
 
 La materia grasa puede ser de tipo manteca vegetal, mantequilla sin sal o margarina. Aunque de usarse con margarina, se debe tener en cuenta que esta última es una grasa más delicada y si se mezcla de forma muy agresiva puede llegar a derretirse. Para contrarrestar esto y darle más estructura, se puede mezclar con un ganaché mágico de chocolate blanco derretido para darle más firmeza a su estructura.
 
-
 Cuandos se agrega chocolate derretido se usa una medida de 1/3 o el 30%
 
 ```
@@ -252,7 +249,6 @@ Una vez teniendo la materia grasa seleccionada, la cual debe estar a punta pomad
 >ProTips: Al usar manteca ir echando la azúcar de a poco. Viendo y probando la consistencia para que no quede tan arenosa. Por ejemplo si bien la proporción es 1:2, ir viendo cómo va quedando cuando se va a 1/3 de la azúcar total. Recordar que se puede usar menos azúcar.
 
 > Tip: Se puede agregar un poco de leche líquida a la preparación para que la misma se vuelva más ligera.
-
 
 A esta preparación se le conoce como "buttercream base" o "buttercream americano". El cual se puede saborizar con esencias, galletas, mermeladas, frutas, colorantes, etc. para cambiar su sabor.
 
@@ -293,7 +289,6 @@ Una vez preparado el buttercream base y saborizado con un chorrito de vainilla s
 Si se utiliza Café instantáneo se debe cernir, porque es polvo y trae grumos.
 
 Se debe tener en cuenta de no agregar demasiado Café. Aunque es a gusto mientras más líquido se agrega a la mezcla más suave será el buttercream resultante.
-
 
 ### Buttercream con Merengues
 Es un hibrido entre buttercream y merengue. Se hace teniendo en cuenta que la cantidad materia grasa a usar (mantequilla, manteca o margarina) debe ser igual al peso los ingredientes del merengue.
@@ -351,7 +346,9 @@ Algunos pasos que se deben de tener en consideración a la hora de alisar nuestr
 
 >Nota: Hay que tener en cuenta que después de pasar con las paletas o scrapers, hay que limpiar el material raspado para que la superficie no se vea afectada.
 
-## Arequipe (Semana 4)
+<!--Semana Santa -->
+
+## Arequipe (Semana 3)
 Es una crema que puede usarse para rellenos o para una cobertura.
 
 Se prepara teniendo en cuenta que: por cada 1lt de leche; corresponde 500gr de azúcar y 1 cucharada de bicarbonato.
@@ -369,12 +366,11 @@ Se puede preparar de dos formas
 #### Preparación en base a leche condensada:
 - En una olla lo suficientemente grande que nos permita cubrir totalmente nuestra lata de leche condensada acostada, se deja cocinar durante aproximadamente 2hrs. **Advertencia: De hacerse en olla de presión tener cuidado al momento de abrir. Existe riesgo de explosión.**
 
-
 ### Consideraciones
 - Durante la preparación a base de ingredientes es importante tener en cuenta que siempre se debe estar removiendo la mezcla porque es fácil que pueda quemarse y tomar una nota ahumada que no le favorece.
 - Durante la preparación a base de ingredientes es recomendable usar un nivel de fuego medio.
 
-## Salsa de Caramelo (Semana 4)
+## Salsa de Caramelo (Semana 3)
 Es un tipo de caramelo líquido cuya consistencia es similar a la salsa de caramelos de McDonalds. Sirve para usarse como  Drips o para hacer decoraciones en forma de hilos.
 
 Se prepara teniendo en cuenta que: por cada 500gr de azúcar corresponde; 200gr de crema de leche (crema para batir repostera) y 2 cucharadas de mantequilla (puede ser margarina con sal).
@@ -400,7 +396,7 @@ De querer el caramelo salado, se le puede agregar sal (recomendada la sal gruesa
 
 Se puede saborizar con un poco de vainilla
 
-## Ganaché de Chocolate (Semana 4)
+## Ganaché de Chocolate (Semana 3)
 Es una crema a base de crema de leche y chocolate. Se puede usar tanto para rellenos como para decorar y si se usa con chocolate blanco también puede ser usado como Drip.
 
 Su proporción para la preparación es 1:1. Es decir, partes iguales de chocolate y crema de leche.
@@ -423,8 +419,7 @@ Se puede utilizar chocolate blanco, chocolate con leche, o chocolate puro. Pero 
 #### Colorante
 De necesitar pintar, se recomienda usar el chocolate blanco junto a colorantes liposolubles.
 
-
-## Ganaché mágico
+## Ganaché mágico (Semana 3)
 Es una mezcla de ganaché, buttercream y gelatina sin sabor la cual es mucho más resistente a las altas temperaturas y hasta la manipulación directa, permitiendo que la decoración formada perdure mucho más en el tiempo. Se puede tocar y no se daña.
 
 La proporción de la gelatina es por 1000gr de producto, 10gr de gelatina disuelto en 5 veces su volumen en agua. O el 1% teniendo en cuenta su peso en gramos.
@@ -476,6 +471,8 @@ La fruta debe estar a temperatura ambiente, dado que si se usa congelada la mism
 #### Uso del Coulis
 Al llevar ese almíbar ligero colado a cocción y espesarlo, se obtiene un Coulis, que es un mermelada ligera sin grumos. Este almíbar se puede usar para pintar las bases de las tortas o darle humedad a los bizcochos.
 
+<!--Semana 5 - Practica: Primera alisando buttercream -->
+
 ## Fondant (Semana 6)
 Es una especie de "manto" comestible de consistencia similar al foami que se utiliza para cubrir las tortas y darles un acabado muy liso. Puede ser saborizado con cualquier esencia y también puede ser teñido con colorantes.
 
@@ -524,7 +521,6 @@ Es una mezcla que se utiliza para realizar decoraciones de tipo esculturales (mu
 ### Consideraciones
 - Se puede utilizar cualquier tipo de chocolate, bitter, oscuro o con leche, sin embargo lo que se debe tener en cuenta es que deben ser chocolates de cobertura.
 - Al momento de usarse se debe tener en cuenta que debe ser utilizado con la punta de los dedos para no transmitirle calor corporal a la mezcla y no sude la glucosa.
-
 
 ## Torta Red Velvet (Semana 7)
 Este es un tipo de Bizcocho muy clásico que se acompaña comúnmente con una crema de queso crema. Se realiza teniendo los siguientes ingredientes (para un molde de 20-23cm):
@@ -615,7 +611,6 @@ Cuando una torta involucra varios pisos, es necesario tener en cuenta ciertas co
     <img src="img/pitillos.jpg" width="350px" alt="Base hecha con pitillos."/>
     <small><p>Base hecha con pitillos.</p></small>
 </div>
-
 
 - Aunque en la imagen se ve que los pitillos "bordean" la base, en realidad se puede hacer de cualquier forma geométrica que permita una buena distribución y resistencia al peso. Como por ejemplo en X, Cuadrado, Triángulo, etc.
 - Este proceso debe de realizarse **por cada piso de torta**, siendo entonces la estructura a formar; y si fuera posible podría usarse una columna principal que conecte todos los pisos y sus respectivas "platones" tal como se ve en esta imagen:
@@ -711,7 +706,6 @@ Se hace con chocolate cobertura blanco junto a chocolate en polvo. Se realiza de
 - Una vez derretido, se vierte en la superficie donde se ha esparcido el chocolate en polvo y se procede a extender con la ayuda de una espátula. No es necesario llevar a la nevera.
 - Cuando esta casi frio y aun flexible es el mejor momento para picarlo con la ayuda de algún molde de galletas o un cortador. Dado que si se endurece se puede quebrar demasiado, lo cual puede ser perjudicial si no buscamos ese efecto.
 
-
 ### Líneas de chocolate
 
 <div align="center">
@@ -726,12 +720,10 @@ Es una técnica que se hizo con el chocolate blanco y de leche y con la ayuda de
 - Se vierte el chocolate de leche y se esparce cuidadosamente con la espátula por toda la superficie.
 - Cuando esta casi frio y aun flexible es el mejor momento para picarlo con la ayuda de algún molde de galletas o un cortador. Dado que si se endurece se puede quebrar demasiado, lo cual puede ser perjudicial si no buscamos ese efecto.
 
-
 ### Consideraciones
 - En ambos efectos con el chocolate, siempre la parte _brillante_ es la que va al frente.
 - Siempre se debe de limpiar el acetato o superficie para que no quede residuos que impida que se despegue o afecte el efecto deseado.
 - Un buen indicador para saber cuándo es momento de despegar el chocolate o cuando esta cerca de solidificarse es notar cuando pasa de estar brillante a opaco.
-
 
 ## Decoración con Flores (Semana 8)
 Al momento de decorar una torta con cualquier tipo de flor es necesario tener en cuenta lo siguiente:
@@ -739,7 +731,6 @@ Al momento de decorar una torta con cualquier tipo de flor es necesario tener en
 - El tallo de la flor debe de prepararse de forma que quede corto, libre de suciedad y otras ramas. Además la punta del tallo debe de cortarse en diagonal para facilitar el incrustado en la superficie.
 - Se recomienda que el tallo este envuelto en floral-tape o en cinta adhesiva para evitar el contacto directo con la torta.
 - Existe diversas flores comestibles como las que se usan para hacer té.
-
 
 ## Crema Chantilly (Semana 9)
 Es un tipo de crema que se hace a base de crema de leche y azúcar glass. Sirve para decorar y rellenar, sin embargo si es para relleno; es mejor usarlo junto a algún elemento que le ayude a mantener la estructura, como mezclarlo con frutas, galletas, o con muros de contención ya que su estructura final es similar a la de un merengue y ante mucho peso/presión se deshace.
@@ -777,7 +768,6 @@ Se puede saborizar con cualquier esencia.
 
 #### Color
 Se puede pinta la crema recomendablemente con colorantes en gel.
-
 
 ## Decoración Fault Line Floral (Semana 9)
 
@@ -856,9 +846,114 @@ Sin embargo la realización en clase fue casi igual con la excepción de que en 
     <small><p>Decoración de la clase.</p></small>
 </div>
 
+<!--Semana 9 - Practica: Realización de degradado en Chantilly -->
+<!--Semana 10 - Practica: Realización de figuras de chocolate en torta con merengue italiano -->
+<!--Semana 11 - Practica: Realización de Rose cake en fondant -->
+
+## Ganaché  (Semana 12)
+> [!WARNING]
+> Aunque ya se vio una clase de Ganaché de chocolate y se habló acerca del Ganaché mágico, fue en esta clase donde **para el autor** se esclarecieron todas las dudas y **pudo entenderlo de mejor manera.**
+
+El Ganaché es una crema muy sedosa a base de crema de leche y chocolate cobertura, el cual puede ser de leche, blanco, amargo o semi-amargo.
+
+### Proporciones
+Al momento de prepararlo hay que tener en cuenta que si bien la receta requiere solo de dos ingredientes, es en base al clima o a la firmeza que necesitemos la proporción que debemos seleccionar. Las cuáles son las siguientes:
+
+- **2:1 Ganaché suave:** Cuya interpretación son 2 partes de crema de leche junto a 1 parte de Chocolate. Se suele usar para rellenos de galletas.
+
+- **1:1 Ganaché medio:** Cuya interpretación son 1 parte de crema de leche junto a 1 parte de Chocolate. (Este fue el tipo de Ganaché que se realizó anteriormente en clase. Su consistencia fue bastante suave, muy similar a una salsa. No se vi cuando espesó).
+
+- **1:2 Ganaché duro:** Cuya interpretación son 1 parte de crema de leche junto a 2 partes de Chocolate.
+    >El asistente del profesor comentó que llegó a utilizar una proporción de 1:2.5 para exteriores en un clima de aproximadamente 12C°.
+
+- **1:3+ Ganaché Mágico:** Se empieza a considerar que un Ganaché es mágico a partir desde la proporción 1:3 hasta la proporción 1:5. Donde por cada parte de crema de leche usaríamos el triple o el quíntuple de la cantidad de crema respectivamente el caso. Se dice que es mágico porque es un tipo de crema que al solidificarse permite su manipulación directa con las manos sin estropear la decoración o superficie.
+
+### Preparación
+- Seleccionar la proporción a usar.
+- Trocear el chocolate en partes pequeñas y reservar.
+- Se procede a derretir los ingredientes a fuego bajo o en microondas en pequeños intervalos. Se debe tener en cuenta qué tipo de materia grasa se tiene en mayor cantidad; dado que podría llevarse al fuego el chocolate hasta derretir para después incorporar a la crema, la crema de leche para posteriormente derretir el chocolate con ella o todo junto. Si se escoge llevar a fuego la crema de leche, es solo hasta que comience a romper hervor.
+- Se procede a remover con ayuda de un miserable o un batidor de globo manual para disolver cualquier grumo y dejarla lo más homogénea posible.
+- Una vez obtenido una mezcla totalmente líquida y libre de cualquier grumo se deja reposar un poco para que la misma se vuelva un poco más espesa y se pueda usar para el mangueado o el relleno.
+
+### Consideraciones
+
+#### Resistencia probada
+En clase preparamos la proporción 1:2.5 y al solidificarse, en el salón de clase quedó muy firme. Lo suficiente para tocarlo suavemente y no deformarse pero maleable como para picarlo con un cuchillo sin ningún problema. Se guardó un pedazo en el bolso y durante el trayecto (a pie) llegó totalmente intacto y definido, conservando su forma y por su puesto su maleabilidad. Ya en la casa al estar en la nevera un rato se volvió un tanto más duro pero aun así permitía cortarlo.
+
+#### Procedimiento e ingredientes probados
+Se troceó el chocolate y se integró junto con la crema y se llevó al microondas hasta derretir el chocolate en intervalos de 30seg y revolviendo bien todo hasta crear una mezcla uniforme un poco transparente.
+
+Se utilizó la crema para montar Ken Presto en lugar de crema de leche y chocolate cobertura blanco.
+
+#### Colorantes
+Esta preparación al no ser totalmente grasa de chocolate, permite usar colorantes en gel y no solo los liposolubles.
+
+#### Utilización
+Si la crema empieza a solidificarse antes de su utilización se puede llevar un momento a baño maría para derretir nuevamente los ingredientes, pero eso significa que debe de batirse nuevamente con el miserable o el globo manual para integrar ambos ingredientes nuevamente y homogenizar.
+
+Si durante el alisado empieza a solidificarse se puede _derretir_ la superficie ayudándonos de una espátula metálica sumergida en agua caliente para después con el calor que absorbe dicha espátula alisarla pasándola por la superficie nuevamente.
+
+#### Quemado
+Si durante el proceso de calentado nos llegamos a pasar de cocción es importante tener en cuenta que una vez quemado se separan ambos ingredientes y no se vuelven a integrar dañando así la preparación.
+
+#### Algunos Tips
+Como esta preparación es en base a derretir chocolate, no es recomendable tener ningún ingrediente frío. Ni el chocolate ni el Chantilly, ni los bowls.
+
+## Crema Bariloche  (Semana 12)
+Es un tipo de crema que a base de un Ganaché de chocolate amargo (o semi-amargo) y arequipe (o dulce de leche) que dependiendo de su proporción puede usarse para relleno o cobertura.
+
+### Proporciones
+Si bien el profesor no dio las siguientes proporciones exactamente, él recomendó el aumento de cantidad de arequipe directamente si se quiere aumentar la consistencia resultante. Las siguientes proporciones las encontré en un [post](https://www.instagram.com/reel/C7HniCrJRb8/?hl=es) de Instagram y recomendada por una compañera de clases.
+
+- **1:1:1.25 Bariloche suave:** Cuya interpretación son 1 partes de crema de leche junto a 1 parte de Chocolate y 1.25 partes de arequipe. Fue la que se preparó en clase y queda como una salsa de chocolate.
+
+- **1:2:3 Bariloche sugerida:** Cuya interpretación son 1 partes de crema de leche junto a 2 partes de Chocolate y 3 partes de arequipe. Fue la que se preparó en clase y queda como una salsa de chocolate. Fue la recomendada por una compañera que la había realizado anteriormente.
+
+- **1:1:2 Bariloche para relleno (ig):** Cuya interpretación son 1 partes de crema de leche junto a 1 parte de Chocolate y 2 partes de arequipe.
+
+- **1:0.5:2 Bariloche para cobertura firme (ig):** Cuya interpretación son 1 partes de crema de leche junto a 1 parte de Chocolate y 2 partes de arequipe.
+
+### Preparación
+- Seleccionar la proporción a usar.
+- Trocear el chocolate en partes pequeñas y reservar.
+- Llevar a fuego la crema de leche hasta que la misma rompa hervor.
+- Una vez la crema de leche rompa a hervor, se procede a incorporar al chocolate reservado fuera del fogón.
+- Dejar el calor de la crema de leche disuelva el chocolate totalmente sin remover durante 10seg aproximadamente.
+- Transcurrido el tiempo, remover para derretir cualquier parte sobrante del chocolate.
+- Una vez disuelto el chocolate y bajada la temperatura se incorpora la proporción de arequipe y se bate hasta integrar todos lo ingredientes.
+
+### Consideraciones
+
+#### Resistencia probada
+En clase preparamos la proporción 1:1:1.25 y se reservó un poco en la nevera durante aproximadamente 24hrs y no se volvió densa. No considero que sea tan resistente como para un relleno.
+
+#### Ingredientes probados
+Se utilizó la crema de leche Wynco y chocolate cobertura amargo.
+
+#### Tipo de chocolate
+El profesor sugirió que puede ser utilizado con cualquier tipo de chocolate cobertura, sin embargo googleando en varios sitios siempre sugieren el chocolate amargo o semi-amargo. Supongo que es por el dulzor del arequipe al integrarse a otro chocolate más dulce la hará mucho más dulce.
+
+También se debe tener en cuenta que al mezclarlo con algún chocolate más claro el mismo puede teñirse por el color natural del arequipe.
+
+#### Utilización
+Se recomienda dejar concentrar sabores a la crema durante al menos 1 día para mejorar el sabor y la consistencia.
+
+#### Algunos Tips
+Es recomendable trabajar con arequipe de panadería que de repostería por ser más sólido o firme. Y tener en cuenta el color del mismo ya que mientras más oscuro más cocción se le dio a la preparación
+
 
 
 <!-- ##########################################################
+Harina        16/JUN -> RIO  -> 109.92bs -> 1.08$ (101.08)
+Huevos        14/JUN -> MERK -> 217.32bs -> 2.15$ (101.08)
+Azucar        14/JUN -> MERK -> 157.89bs -> 1.56$ (101.08)
+Mantequilla   16/JUN -> RIO  -> 246.82bs -> 2.44$ (101.08)
+Piña          14/JUN -> ---- -> 200.00bs -> 1.97$ (101.08)
+Aceite        16/JUN -> ORQ  -> 109.81bs -> 1.09$ (101.08)
+Envases       16/JUN -> MERK -> 210.12bs -> 0.26$ (101.08)
+
+-----------
+
 
 Notas desordenadas
 
@@ -914,7 +1009,7 @@ Por cada huevo pesado con cascara 55-60gr (50gr)
 - 40gr de harina
 - 40gr de azúcar
 - 1gr de polvo de hornear
-- 11gr de liquido (10gr de vainilla)
+- 11gr de liquido (cualquier tipo de liquido, jugo, agua, aceite, refresco)(10gr de vainilla)
 
 mezcla
 Llevar al punto letra
