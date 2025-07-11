@@ -29,6 +29,8 @@ Es un tipo de merengue "crudo", es decir, no lleva cocción durante la preparaci
 
 >**Protips:** Esta preparación queda mejor si primero se baten las claras hasta que levanten y después que estén montadas se incorpora la azúcar en forma de lluvia lentamente a la mezcla.
 
+>**Protips 2:** Si se cuenta con termómetro, al alcanzar los 60°C se deja batiendo a esa temperatura alrededor de 4-5 minutos para pasteurizar un poco las claras de huevo siempre removiendo constantemente para evitar su cocción.
+
 ### El Merengue Suizo
 Es un tipo de merengue que lleva cocción en su preparación muy similar a un _baño de maría_.
 
@@ -44,6 +46,8 @@ Es un tipo de merengue que lleva cocción en su preparación muy similar a un _b
 Es un tipo de merengue que al igual que el Suizo también lleva cocción y su textura es un poco más firme que los anteriores.
 
 >**Protips:** Profesor recomienda este para manguear.
+
+>**Protips 2:** Si se cuenta con termómetro, el momento para comenzar a batir las claras es cuando el almíbar toca los 100°C, y el punto para retirar el almíbar del fuego es cuando llega entre 115°C-120°C. Una vez comience a integrarse ambos ingredientes se bate alrededor de 5 min más o hasta que esté completamente frío el bowl y bien integrado ambos ingredientes.
 
 #### Preparación
 La preparación de este merengue involucra dos etapas, luego de hacer separado las claras haber obtenido la proporción de azúcar. Se hace de la siguiente manera:
@@ -95,7 +99,7 @@ Se recomienda batir siempre en la misma dirección, bien sea moviendo el bowl de
 Los merengues se deberían de usar siempre para decorar. Para rellenar no es recomendable puesto que en su mayoría su composición es aire y por ende se caerá/absorberá por el peso de la torta. De usarse como relleno, se debe hacer un hueco dentro de la torta y verter el relleno ahí y luego tapar con la parte de arriba, esto con la idea de que no se apoye todo el peso de la torta en él o mezclarlo con frutas para que los pedazos de las mismas sirvan de apoyo.
 
 ## Tabla de costos (Semana 2)
-La tabla de costos es una técnica en la cual nos permite plasmar todos los ingredientes a utilizar para así planear el precio final que tendrá nuestro producto.
+La tabla de costos es procedimiento en cual nos permite plasmar todos los ingredientes a utilizar para así obtener el precio final que tendrá nuestro producto.
 
 Para efectos de este ejemplo la usaremos teniendo en cuenta algunos de los ingredientes que se usan a la hora de hacer una torta, pero puede ser utilizado para cualquier tipo de preparación.
 
@@ -119,7 +123,6 @@ Entonces teniendo en cuenta todo lo anterior, podemos obtener la siguiente tabla
 |:-------------:|:----------------------:|:---------------------:|:---------------:|:---------:|
 | Harina trigo  |                        |                       |                 |           |
 
-
 Luego se procede a rellenar los datos del ingrediente de la siguiente manera:
 
 | Ingredientes  | Medida de Ingredientes | Costo de Ingredientes | Cant. Utilizada | Costo C/U |
@@ -142,7 +145,7 @@ Entonces teniendo en cuenta lo anterior podemos seguir obteniendo los datos de t
 | Mantequilla   | 500gr                  | 2.5$                  | 250gr           | 1.25$     |
 | Leche         | 1000ml                 | 4$                    | 250ml           | 1$        |
 
-En este punto es deducible que en la compra de todos los ingredientes de la tabla se gastó un total de 18.5$ (que representa a la suma de toda la columna de los costos de los ingredientes), sin embargo, no se utilizaron la cantidad total de todos los ingredientes, por lo tanto seria injusto cobrar dicha suma, lo más justo a la hora de considerar el precio total de ingredientes es la suma de la columna de Costos C/U, la cual nos da un total de 6.25$.
+En este punto es deducible que en la compra de todos los ingredientes de la tabla se gastó un total de 18.5$ (que representa a la suma de toda la columna de los costos de los ingredientes), sin embargo, no se utilizó la cantidad total de todos los ingredientes, por lo tanto seria injusto cobrar dicha suma, lo más justo a la hora de considerar el precio total de ingredientes es la suma de la columna de Costos C/U, la cual nos da un total de 6.25$.
 
 
 | Ingredientes  | Medida de Ingredientes | Costo de Ingredientes | Cant. Utilizada | Costo C/U |
@@ -907,11 +910,13 @@ Si bien el profesor no dio las siguientes proporciones exactamente, él recomend
 
 - **1:1:1.25 Bariloche suave:** Cuya interpretación son 1 partes de crema de leche junto a 1 parte de Chocolate y 1.25 partes de arequipe. Fue la que se preparó en clase y queda como una salsa de chocolate.
 
-- **1:2:3 Bariloche sugerida:** Cuya interpretación son 1 partes de crema de leche junto a 2 partes de Chocolate y 3 partes de arequipe. Fue la que se preparó en clase y queda como una salsa de chocolate. Fue la recomendada por una compañera que la había realizado anteriormente.
+- **1:2:3 Bariloche sugerida:** Cuya interpretación son 1 partes de crema de leche junto a 2 partes de Chocolate y 3 partes de arequipe. Fue la que se preparó en clase y queda como una salsa de chocolate. Fue la recomendada por una compañera que la había realizado anteriormente. [post](https://www.instagram.com/reel/DLdyjyuRPeb/?igsh=MWtzbWp0bWVpNDE1ZQ%3D%3D)
 
 - **1:1:2 Bariloche para relleno (ig):** Cuya interpretación son 1 partes de crema de leche junto a 1 parte de Chocolate y 2 partes de arequipe.
 
-- **1:0.5:2 Bariloche para cobertura firme (ig):** Cuya interpretación son 1 partes de crema de leche junto a 1 parte de Chocolate y 2 partes de arequipe.
+- **0.5:1:2 Bariloche para Muro de contención (ig):** Cuya interpretación son 1/2 parte de crema de leche junto a 1 parte de Chocolate y 2 partes de arequipe.
+
+- **1:1:1 Bariloche para cobertura firme (ig):** Cuya interpretación son 1 parte de crema de leche junto a 1 parte de Chocolate y 1 parte de arequipe.
 
 ### Preparación
 - Seleccionar la proporción a usar.
@@ -941,20 +946,69 @@ Se recomienda dejar concentrar sabores a la crema durante al menos 1 día para m
 #### Algunos Tips
 Es recomendable trabajar con arequipe de panadería que de repostería por ser más sólido o firme. Y tener en cuenta el color del mismo ya que mientras más oscuro más cocción se le dio a la preparación
 
+<!--Semana 13 y 14 (dos clases en un mismo dia)- Practica: Realizar figuras estilo globo con chocolate y torta caricatura con fondant -->
 
+## Figuras con chocolate tipo globo (Semana 13 y 14)
+Es un tipo de decoración realizada con cualquier tipo de chocolate que sea cobertura, en una superficie un tanto suave y con la ayuda de papel envoplast. Quedando con una textura similar a la siguiente imagen:
+
+<div align="center">
+    <img src="img/globo-chocolate.png" width="350px" alt="Decoracion de chocolate."/>
+    <small><p>Decoración de chocolate.</p></small>
+</div>
+
+### Preparación
+Para realizar esta decoración con chocolate primeramente, se debe de contar con:
+
+#### Materiales necesarios
+- Foami (de cualquier color) y de al menos tamaño carta.
+- Papel envoplast suficiente para cubrir todo el foami.
+- Moldes de galletas o la forma deseada.
+- Chocolate de tipo cobertura.
+
+#### Procedimiento
+- Se comienza primero cubriendo completamente el foami con papel envoplast, sin dejar ningún lado sin cubrir por si escurre chocolate. Esta será nuestra superficie donde trabajaremos.
+- Se corta una lámina de envoplast del mismo tamaño que el foami y se reserva.
+- Se derrite el chocolate a utilizar
+- Se vierte el chocolate en el foami cubierto de envoplast
+- Se coloca la lamina de envoplast que se había cortado y reservado encima del chocolate, y con ayuda de esta, vamos presionando un poco para explotar o sacar cualquier burbuja de aire en la superficie, para que la misma quede lisa.
+- Se saca la forma deseada con la ayuda del molde.
+- Se deja reposar con ayuda de un peso en el molde para después llevarlo a la nevera.
+- Una vez totalmente frio, con la ayuda del mismo molde se puede hacer presión para terminar de cortar la forma. Y se obtendría el efecto.
+
+<div align="center">
+    <img src="img/resultado-chocolate.png" width="350px" alt="Resultado final."/>
+    <small><p>Resultado final.</p></small>
+</div>
+
+### Consideraciones
+- Al chocolate se le puede agregar colorante.
+- Una vez frio se le puede añadir matizadores o escarcha comestible. Teniendo en cuenta que cuando se toca la superficie del chocolate debe ser de forma suave por si tiene alguna burbuja de aire no se hunda.
+- Mientras más chocolate se use para hacer una forma más gruesa y pronunciada quedará.
+
+## Decoración tipo caricatura (Semana 13 y 14)
+Esta es un tipo de decoración hecha con fondant. En la cual se cubre el slice o torta completa tratando de simular todos los detalles de la misma torta con el fondant y bordeando cada contorno con la finalidad que parezca un dibujo/caricatura.
+
+<div align="center">
+    <img src="img/cartoon-cake.png" width="350px" alt="Cartoon cake."/>
+    <small><p>Cartoon cake.</p></small>
+</div>
+
+### Preparación
+Preparación como tal no tiene dado que es simular el decorado de una torta simple pero con fondant. Pero el tip más importante de esta decoración es definir desde el inicio el ángulo de visión de la torta, es decir, desde donde será que se verá. O en palabras simples cual será el frente. Dado que estamos simulando un dibujo y las líneas que bordean los objetos de la torta **a veces no se verán bien desde todos los ángulos**, entonces hay que definir desde el principio cual es el ángulo de visión para que todas las líneas y decoraciones concuerden y se vean armonizas.
+
+<div align="center">
+    <img src="img/cartoon-resultado.png" width="350px" alt="Cartoon cake."/>
+    <small><p>Cartoon cake realizada.</p></small>
+</div>
+
+<div align="center">
+    <video height="400px" controls poster="https://i.pinimg.com/videos/thumbnails/originals/c4/c7/58/c4c75896b2a3cb5a839c91d54d5437de.0000000.jpg" preload="auto" src="https://v1.pinimg.com/videos/mc/720p/c4/c7/58/c4c75896b2a3cb5a839c91d54d5437de.mp4">
+        <track kind="captions">
+    </video>
+    <small><p>Proceso del Cartoon cake.</p></small>
+</div>
 
 <!-- ##########################################################
-Harina        16/JUN -> RIO  -> 109.92bs -> 1.08$ (101.08)
-Huevos        14/JUN -> MERK -> 217.32bs -> 2.15$ (101.08)
-Azucar        14/JUN -> MERK -> 157.89bs -> 1.56$ (101.08)
-Mantequilla   16/JUN -> RIO  -> 246.82bs -> 2.44$ (101.08)
-Piña          14/JUN -> ---- -> 200.00bs -> 1.97$ (101.08)
-Aceite        16/JUN -> ORQ  -> 109.81bs -> 1.09$ (101.08)
-Envases       16/JUN -> MERK -> 210.12bs -> 0.26$ (101.08)
-
------------
-
-
 Notas desordenadas
 
 La proporción de pastel por personas son de 80-100grs de harina por persona
