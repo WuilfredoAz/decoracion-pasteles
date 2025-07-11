@@ -994,18 +994,11 @@ Esta es un tipo de decoración hecha con fondant. En la cual se cubre el slice o
 </div>
 
 ### Preparación
-Preparación como tal no tiene dado que es simular el decorado de una torta simple pero con fondant. Pero el tip más importante de esta decoración es definir desde el inicio el ángulo de visión de la torta, es decir, desde donde será que se verá. O en palabras simples cual será el frente. Dado que estamos simulando un dibujo y las líneas que bordean los objetos de la torta **a veces no se verán bien desde todos los ángulos**, entonces hay que definir desde el principio cual es el ángulo de visión para que todas las líneas y decoraciones concuerden y se vean armonizas.
+Preparación como tal no tiene dado que es simular el decorado de una torta simple pero con fondant. Pero el tip más importante de esta decoración es definir desde el inicio el ángulo de visión de la torta, es decir, desde donde será que se verá. O en palabras simples cual será el frente. Dado que estamos simulando un dibujo y las líneas que bordean los objetos de la torta **a veces no se verán bien desde todos los ángulos**, entonces hay que definir desde el principio cual es el ángulo de visión para que todas las líneas y decoraciones concuerden y se vean armonizas. [Aquí](https://v1.pinimg.com/videos/mc/720p/c4/c7/58/c4c75896b2a3cb5a839c91d54d5437de.mp4) hay un video donde se muestra brevemente la realización.
 
 <div align="center">
     <img src="img/cartoon-resultado.png" width="350px" alt="Cartoon cake."/>
     <small><p>Cartoon cake realizada.</p></small>
-</div>
-
-<div align="center">
-    <video height="400px" controls poster="https://i.pinimg.com/videos/thumbnails/originals/c4/c7/58/c4c75896b2a3cb5a839c91d54d5437de.0000000.jpg" preload="auto" src="https://v1.pinimg.com/videos/mc/720p/c4/c7/58/c4c75896b2a3cb5a839c91d54d5437de.mp4">
-        <track kind="captions">
-    </video>
-    <small><p>Proceso del Cartoon cake.</p></small>
 </div>
 
 <!-- ##########################################################
