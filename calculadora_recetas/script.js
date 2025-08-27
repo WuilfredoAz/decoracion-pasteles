@@ -13,6 +13,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const profitMarginInput = document.getElementById('profitMargin');
     const finalSaleCostSpan = document.getElementById('finalSaleCost');
 
+    const puntoEquilibrioInput = document.getElementById('puntoDeEquilibrio');
+
     // Nuevos elementos para mostrar los valores monetarios
     const operationalExpensesValueSpan = document.getElementById('operationalExpensesValue');
     const administrativeExpensesValueSpan = document.getElementById('administrativeExpensesValue');
@@ -87,7 +89,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const totalProductionCost = totalIngredientsCost + operationalCost + administrativeCost;
 
         // Calcular el costo de ganancia
-        const profitAmount = totalProductionCost * (profitMarginPercent / 100);
+        const profitAmount = (totalProductionCost / (1 - (profitMarginPercent / 100))) - totalProductionCost;
 
         // Calcular el costo final de venta con el margen de ganancia
         const finalCost = totalProductionCost + profitAmount; // Sumamos el monto de la ganancia al costo de producción
@@ -98,6 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {
         operationalExpensesValueSpan.textContent = `( $${operationalCost.toFixed(2)} )`;
         administrativeExpensesValueSpan.textContent = `( $${administrativeCost.toFixed(2)} )`;
         profitMarginValueSpan.textContent = `( $${profitAmount.toFixed(2)} )`;
+        puntoEquilibrioInput.value= totalProductionCost.toFixed(2);
     };
 
     // Event listener para agregar un ingrediente

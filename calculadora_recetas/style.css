@@ -137,6 +137,11 @@ h1, h2 {
     gap: 10px; /* Espacio entre el input y el valor calculado */
 }
 
+.equilibrio-section
+{
+    margin-right: 80px;
+}
+
 .profit-section label, .expense-section label {
     margin-right: 0; /* Ya no necesitamos este margen */
     font-weight: normal;
