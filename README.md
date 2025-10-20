@@ -442,7 +442,7 @@ La proporción de ganaché y buttercream es:
 Esta es una receta que se puede utilizar para realizar cualquier sabor de mermelada de fruta. Solo se debe sustituir la fruta a elegir. Por nombrar algunas, se pueden considerar fresas, duraznos, guanábana, melocotón, mango, pulpa de naranja, kiwi, uva, mora, piña (Esta debe estar previamente cocida), guayaba (sancochada y licuada con un poquito del jugo de la cocción) etc.
 > Nota: De preferir usar la naranja completa con conchas y picada en cuartos (fruta) se debe cocinar de 3-4 veces. Es decir, llevar la fruta solo con agua a cocinar, cuando rompa a hervor, espero 15min, se saca la naranja, se bota el agua, y se repite el proceso de 3-4 veces para evitar así cualquier tono amargo. Luego de eso, cocinar normalmente con el azúcar.
 
-Su proporción 1:1/2. Es decir es por cada 1000gr de fruta, corresponden 500gr de azúcar.
+Su proporción 1:1/2. Es decir es por cada 1000gr de fruta, corresponden 500gr de azúcar. Sin embargo existen otros autores que recomiendan 1:1/4, es decir por cada 1000gr de fruta, 250gr de azúcar (Podria ser buena idea probar esta proporción para una versión más _light_ o cuando se usan frutas muy dulces como podría ser el mango).
 
 ### Preparación
 - De usar fruta; se procede a lavarla y limpiarlas de conchas o semillas. Luego se pican en trozos muy pequeños.
@@ -1002,13 +1002,24 @@ Preparación como tal no tiene dado que es simular el decorado de una torta simp
 </div>
 
 <!-- ##########################################################
+
+Orden de tortas en pulgadas
+10' -> 25cm* use con steban con cuatro capas de bizcocho y 3 de relleno
+8' ->  20cm* use con steban con cuatro capas de bizcocho y 3 de relleno
+6' ->  15cm
+4' ->  10cm
+-----------
+
+
 Notas desordenadas
 
 La proporción de pastel por personas son de 80-100grs de harina por persona
 Los pasapalos son 4-6 por persona en el evento
-Protips: Una pizca de Pimienta negra ayuda a resaltar el sabor de las tortas de chocolate también el café
-la diferencia al tacto entre la maicena y la azucar glass es que la azucar glass es sedosa mientras la maicena se siente mas seca. como que cruje al tacto.
-5-10gr de sal por litro de agua en las pastas
+
+Protips:
+- Una pizca de Pimienta negra ayuda a resaltar el sabor de las tortas de chocolate también el café
+- la diferencia al tacto entre la maicena y la azucar glass es que la azucar glass es sedosa mientras la maicena se siente mas seca. como que cruje al tacto.
+- 5-10gr de sal por litro de agua en las pastas
 
 700gr
 40% aceite (280)
